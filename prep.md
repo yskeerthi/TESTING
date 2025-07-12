@@ -1,8 +1,5 @@
 
 ---
-Great! It seems like you meant **"What is testing?"** — let me explain it in a simple and structured way.
-
----
 
 ### ✅ What is **Testing**?
 
@@ -74,14 +71,6 @@ Imagine you're building a **food delivery app**:
 * **Acceptance Test:** Ensure the app satisfies user expectations.
 
 ---
-
-Let me know if you want:
-
-* **Examples in C++/Java/Python**
-* Interview Questions on Testing
-* Manual vs Automation Testing comparison
-
-Just say the word!
 
 ### 1. **What is Functional Testing in Manual testing?**
 
