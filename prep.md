@@ -942,15 +942,3 @@ Include:
 
 ---
 
-Would you like:
-
-* A **mock test** or **quiz version** of these?
-* All **questions + answers as a PDF**?
-* A **one-page summary sheet**?
-
-Let me know how you'd like to use these next!
-
-
-
-
-
